@@ -1,0 +1,17 @@
+.square-div {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid #000;
+}
+
+.small-div {
+  width: 50%;
+  height: 50%;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #000;
+}
